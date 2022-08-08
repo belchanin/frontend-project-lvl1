@@ -22,7 +22,7 @@ export const playGame = (desc, callback) => {
   }
 };
 
-export const getRandomNumber = (range = 100) => Math.floor(Math.random() * range);
+export const getRandomNumber = (range = 100, start = 0) => Math.floor(Math.random() * range) + start;
 
 export const isCorrectAnswer = (userAnswer, expectedAnswer) => {
   const isCorrect = userAnswer === String(expectedAnswer);
