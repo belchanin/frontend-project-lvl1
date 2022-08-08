@@ -5,4 +5,4 @@
 <a href="https://codeclimate.com/github/belchanin/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/08932fdac79c0cb1477e/maintainability" /></a>
 
 ### Демо проекта
-https://asciinema.org/a/BXs0Og3QEo7FMeLZEVmy65bF7
+https://asciinema.org/a/ZBSQ6RE2kXUGhJ9TR0hr2hfmV
